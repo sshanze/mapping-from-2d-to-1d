@@ -1,1 +1,0 @@
-# mapping-from-2d-to-1d
